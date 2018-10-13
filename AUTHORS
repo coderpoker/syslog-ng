@@ -1,5 +1,5 @@
 
-syslog-ng was written by Bal·zs Scheidler <bazsi@balabit.hu>
+syslog-ng was written by Bal√°zs Scheidler <bazsi@balabit.hu>
 
 Contributions under the contrib/ directory were contributed by a number of
 different people.
@@ -30,6 +30,7 @@ Brian A. Seklecki
 John Morrissey
 Joe Fegan
 Joe Shaw
+coderpoker - as I love open source.
 
 and probably a lot more.
 
